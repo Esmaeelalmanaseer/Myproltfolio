@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33801.447
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Myproltfolio", "Myproltfolio\Myproltfolio.csproj", "{F131D72A-A2DD-4AE1-9032-A93E4CC9CC69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Myproltfolio\Web.csproj", "{F131D72A-A2DD-4AE1-9032-A93E4CC9CC69}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{6AB97866-4694-4A01-9C53-44226D9ACEEA}"
 EndProject
